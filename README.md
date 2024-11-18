@@ -18,3 +18,7 @@ This font software is licensed under the SIL Open Font License, Version 1.1. For
 ## Installation
 
 To install Cuescadilla Non Mono, simply download the font files and install.
+
+```
+font-family: 'Cuescadilla';
+```
