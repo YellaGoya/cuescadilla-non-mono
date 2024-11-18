@@ -1,6 +1,6 @@
 # 🥙 Cuescadilla Non Mono
 
-Cuescadilla Non Mono is a modified version of the Cascadia Mono font, designed to provide a more versatile typeface for those who want to use Cascadia in environments beyond traditional code editors. This font retains the essence of the original Cascadia Mono while offering a selection of alphabetic characters, numbers, and special symbols in a non-monospace format.
+Cuescadilla Non Mono is a modified version of the Cascadia Mono font( https://github.com/microsoft/cascadia-code ), designed to provide a more versatile typeface for those who want to use Cascadia in environments beyond traditional code editors. This font retains the essence of the original Cascadia Mono while offering a selection of alphabetic characters, numbers, and special symbols in a non-monospace format.
 
 ## Features
 
